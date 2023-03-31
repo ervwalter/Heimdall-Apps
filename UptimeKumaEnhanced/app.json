@@ -6,5 +6,5 @@
   "description": "It is a self-hosted monitoring tool like \"Uptime Robot\".",
   "enhanced": true,
   "tile_background": "dark",
-  "icon": "uptimekuma.svg"
+  "icon": "uptime-kuma.svg"
 }
