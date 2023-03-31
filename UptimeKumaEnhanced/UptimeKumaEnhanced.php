@@ -1,6 +1,6 @@
-<?php namespace App\SupportedApps\UptimeKuma;
+<?php namespace App\SupportedApps\UptimeKumaEnhanced;
 
-class UptimeKuma extends \App\SupportedApps implements \App\EnhancedApps
+class UptimeKumaEnhanced extends \App\SupportedApps implements \App\EnhancedApps
 {
 	public $config;
 
